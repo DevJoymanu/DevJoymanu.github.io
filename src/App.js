@@ -18,6 +18,9 @@ function App() {
 
 
     <header class = "header">
+
+      <title>Me</title>
+
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
       <a href="#" class="logo">Joymanu.</a>
